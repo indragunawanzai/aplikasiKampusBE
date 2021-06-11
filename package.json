@@ -1,0 +1,23 @@
+{
+  "name": "aplikasi_kampus",
+  "version": "1.0.0",
+  "description": "backend aplikasi kampus sederhana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indragunawanzai/aplikasiKampusBE.git"
+  },
+  "keywords": [
+    "php",
+    "mysql"
+  ],
+  "author": "Indra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indragunawanzai/aplikasiKampusBE/issues"
+  },
+  "homepage": "https://github.com/indragunawanzai/aplikasiKampusBE#readme"
+}
